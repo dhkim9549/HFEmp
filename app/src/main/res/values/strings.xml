@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HFemp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="search">Search</string>
+    <string name="searchHint">employee</string>
+
+</resources>
